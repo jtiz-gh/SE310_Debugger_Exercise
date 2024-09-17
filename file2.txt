@@ -1,0 +1,6 @@
+Software debugging best practices include isolating the problem by reproducing the issue.
+Use logging to capture runtime information.
+Leverage debugging tools to step through code.
+Focus on understanding problems before attempting fixes.
+Implement to ensure the bug is resolved.
+Document findings for future reference.
